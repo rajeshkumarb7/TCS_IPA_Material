@@ -11,7 +11,7 @@ __pycache__/
 # folders to ignore
 docs
 JAVA-Solutions-TCS-IPA-Questions with Answers
-JAVA-SOLUTION-IPA-TCS-2024
+#JAVA-SOLUTION-IPA-TCS-2024
 
 # Ignore all PDFs
 .pdf/*
